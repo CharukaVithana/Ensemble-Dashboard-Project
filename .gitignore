@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+models/*.joblib
+results/*.csv
+results/*.png
+
+data/vehicles_SAMPLE_synthetic.csv
+
+.streamlit/secrets.toml

@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+catboost
+statsmodels
+matplotlib
+plotly
+streamlit>=1.50
+joblib
+shap
+requests
+beautifulsoup4
+nbformat
+nbconvert
+ipykernel
